@@ -260,4 +260,4 @@ Follow these steps to run the UI tests manually:
 
 Code Tours are guided walkthroughs that will help you understand the app code better. To be able to run them, install the [CodeTour VSCode extension](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
 
-## Carlos Changes Here new conflict code
+## Carlos Changes Here add code for merge conflict
